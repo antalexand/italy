@@ -22,6 +22,10 @@ nav li {
  
 }
 
+nav form {
+  display: inline;
+}
+
 
 
 section {
@@ -102,6 +106,7 @@ button {
   border: none;
   box-shadow: none;
 }
+
 
 
 
